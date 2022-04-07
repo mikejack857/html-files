@@ -1,0 +1,91 @@
+.DOCTYPE html
+html
+    head
+        <h1>
+            <style>
+                h1{
+                    color:red;
+                    font-size: x-large;
+                    text-shadow: mediumblue;
+                }
+                p.centre{
+                   text-align:center;
+                }
+            
+            <font color="red">HEY AM BOSS 1</font>
+        </style>
+        </h1>
+        <h2>
+            <font color=" orange">@Achievers</font>
+        </h2>
+        <h3>
+            <font color="white">+254702935841</font>
+        </h3>
+        <title>Mike Jackson</title>
+    </head>
+    
+    status:<progress min="0" max="100" value="70">Achieving</progress>
+    <!--Success does not comes overtime but overtime-->
+    <body style="background-color: indigo;">
+       
+        
+           <nav style="background-color: aqua;">
+            <ol>
+                <a href="TYPING @.docx" target="_blank">doc</a></br>
+                
+                <a href="www.gif.ke" target="_blank">GIF</a></br>
+               <a href="#">home</a></br>
+               <a href="#">about</a></br>
+               <a href="#">services</a></br>
+               opening the doc,above needs pc ,sorry for that
+            </ol>
+           </nav>
+                                          <form>
+                                              <style>
+                                                  p.right{
+                                                      text-align: right;
+                                                  }
+                                              
+                                          <input type="username">/<br>
+                                          <input type="password"></br>
+                                          <input type="submit">
+                                        </style>
+                                          </form>
+        <div style=" background-color:pink;">
+
+                
+           <ul>
+               <p>
+                  <style>
+                       
+                      p.centre{
+                        text-align:center;
+                      }
+                  
+                  <b>WORKS IN GIF</b>
+                </style>
+               </p>
+               
+               <li><GIF->global internet fortunes</GIF-></li>
+               <li> online platform that you can earn 3000sh daily</li>
+               <li>By using your mobile phone</li>
+               <li>you just need to be connected to internet</li>
+               <li>Just inbox i connect you</li>
+           </ul>
+
+        </div>
+        <table border="3" style="background-color:yellow;">
+            <tr>
+                <td>GLOBAL</td>
+                <td>INTERNET</td>
+                <td>FORTUNES</td>
+            </tr>
+        </table>
+        
+        <footer style="background-color: violet;">
+            @Achievers corner
+        </footer>
+    </body>
+    <sup> --Success matters</sup>
+    <!--TimeStamp!--->10:48 2/1/2021<!---->
+</html>
